@@ -1,2 +1,4 @@
-# Rahamas-Riddle-Generator-
- The Riddle Generator Project is an innovative program developed as part of a class assignment. The project aims to create a software application capable of generating various riddles, providing an entertaining and educational experience for users. By leveraging programming skills and creativity
+Javascript project by Ibrahim Rahma to display famous Nigerian Riddles 
+Wriiten with HTML, CSS , BOOTSTRAP, Javascript, Jquery 
+Riddles are not created or published by me they are well know riddles by the black african community 
+growing up these ridddles where a source of joy to us and its a pleasure to share them to the world 
